@@ -1,6 +1,6 @@
-Advanced Web Scraper with CustomTkinter GUI
+- Advanced Web Scraper with CustomTkinter GUI
 
-A powerful, configurable web scraper with a modern GUI built using Python and CustomTkinter. Extracts links, text, and images from websites while avoiding detection with rate limiting and user-agent rotation.
+- A powerful, configurable web scraper with a modern GUI built using Python and CustomTkinter. Extracts links, text, and images from websites while avoiding detection with rate limiting and user-agent rotation.
 
  Features
 - Modern GUI with CustomTkinter
@@ -15,8 +15,12 @@ A powerful, configurable web scraper with a modern GUI built using Python and Cu
   - User-agent rotation
   - Same-domain restriction
 
-## ⚙️ Installation
+- Installation
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/web-scraper.git
    cd web-scraper
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+     
